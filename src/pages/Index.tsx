@@ -1,12 +1,26 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { Navigation } from "@/components/Navigation";
+import { Hero } from "@/components/Hero";
+import { Problem } from "@/components/Problem";
+import { Solution } from "@/components/Solution";
+import { HowItWorks } from "@/components/HowItWorks";
+import { CTA } from "@/components/CTA";
 
 const Index = () => {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
+    <div className="min-h-screen bg-background">
+      <Navigation />
+      <main>
+        <Hero />
+        <Problem />
+        <Solution />
+        <HowItWorks />
+        <CTA />
+      </main>
+      <footer className="py-8 px-4 border-t border-border">
+        <div className="container mx-auto text-center text-sm text-muted-foreground">
+          <p>© 2025 All Aboard. Built for the future of intelligent recruitment.</p>
+        </div>
+      </footer>
     </div>
   );
 };
