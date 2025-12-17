@@ -1,4 +1,15 @@
 # Welcome to your Lovable project
+# live at - https://coral-mind-weave.lovable.app
+---
+<img width="1432" height="736" alt="Screenshot 2025-12-18 at 3 26 34 AM" src="https://github.com/user-attachments/assets/991aebab-8740-4bee-82b0-c59e2e0ce93e" />
+
+---
+<img width="1228" height="674" alt="Screenshot 2025-12-18 at 3 27 16 AM" src="https://github.com/user-attachments/assets/05d1133d-5806-4dc4-90da-39800d05ae67" />
+
+--- 
+<img width="761" height="741" alt="Screenshot 2025-12-18 at 3 28 25 AM" src="https://github.com/user-attachments/assets/44effe56-5c6a-4b4a-830f-f28bda0a5a0d" />
+
+---
 
 ## Project info
 
